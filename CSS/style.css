@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #222222;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: 'Open Sans';
+    background-color: #fafafa;
+}
+
+.section{
+    float:left;
+    width: 100%;
+}
+
+.container{
+    display: flex;
+}
+
+.logo{
+    width: 250px;
+}
+.Login ul{
+    display: flex;
+}
+.Login li{
+    list-style: none;
+}
+.Login a{
+    text-decoration: none;
+}
+
+input[type=text] {
+    float: left;
+    width: 300px;
+    font-size: 15px;
+    height: 40px;
+}
