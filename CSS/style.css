@@ -9,7 +9,6 @@ body {
     font-size: 14px;
     line-height: 1.5;
     font-weight: 400;
-    font-family: 'Open Sans';
     background-color: #fafafa;
 }
 
@@ -19,11 +18,35 @@ body {
 }
 
 .container{
+    width: 100%;
     display: flex;
+    padding: 10px;
+    padding-left: 150px;
+}
+
+.header{
+    background-color: green;
 }
 
 .logo{
     width: 250px;
+}
+
+.find{
+    padding-left: 300px;
+    padding-top: 25px;
+    padding-right: 240px;
+}
+
+input[type=text] {
+    float: left;
+    width: 300px;
+    font-size: 15px;
+    height: 40px;
+}
+
+.Login{
+    padding-top: 35px;
 }
 .Login ul{
     display: flex;
@@ -35,9 +58,29 @@ body {
     text-decoration: none;
 }
 
-input[type=text] {
-    float: left;
-    width: 300px;
-    font-size: 15px;
-    height: 40px;
+.nav{
+    background-color: #1b6d85;
+}
+.menu{
+    list-style: none;
+    display: flex;
+}
+.menu a{
+    text-decoration: none;
+}
+
+.col-md-12{
+    background-color: #46b8da;
+    width: 100%;
+}
+.col-md-12 .container{
+    width: 100%;
+}
+.carousel img {
+    width: 100%;
+}
+
+h1{
+    background-image:url("../imgs/9.png");
+    padding: 5px 40px 5px 50px;
 }
