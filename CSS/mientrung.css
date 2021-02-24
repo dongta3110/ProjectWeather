@@ -147,3 +147,12 @@ h2{
     list-style: none;
     color: white;
 }
+.menu a:hover{
+    color: black;
+}
+.Login a:hover{
+    color: black;
+}
+.menu1 a:hover{
+    color: black;
+}

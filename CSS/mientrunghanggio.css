@@ -184,4 +184,13 @@ h1{
     padding-right: 40px;
     border-bottom: 1px solid #e2e2e2;
 }
+.menu a:hover{
+    color: black;
+}
+.Login a:hover{
+    color: black;
+}
+.menu1 a:hover{
+    color: black;
+}
 

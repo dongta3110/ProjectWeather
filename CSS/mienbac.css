@@ -196,3 +196,9 @@ h1{
     text-align: center;
 
 }
+.Login a:hover{
+    color: black;
+}
+.menu a:hover{
+    color: black;
+}

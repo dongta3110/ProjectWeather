@@ -59,6 +59,9 @@ input[type=text] {
     text-decoration: none;
     font-size: 20px;
 }
+.Login a:hover{
+    color: black;
+}
 
 .nav{
     background-color: #ed5b30;
@@ -72,6 +75,9 @@ input[type=text] {
     font-size: 20px;
     padding-right: 20px;
     color: white;
+}
+.menu a:hover{
+    color: black;
 }
 
 .col-md-12{
