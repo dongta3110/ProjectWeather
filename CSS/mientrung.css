@@ -6,7 +6,7 @@
 
 body {
     color: #222222;
-    font-size: 14px;
+    /*font-size: 14px;*/
     line-height: 1.5;
     font-weight: 400;
     background-color: #fafafa;
@@ -76,4 +76,74 @@ input[type=text] {
 h1{
     background-image:url("../imgs/9.png");
     padding: 5px 40px 5px 50px;
+}
+
+.main{
+    background-color: #f4f4f4;
+    padding-top: 5px;
+}
+.menu1{
+    list-style: none;
+    display: flex;
+}
+.menu1 a{
+    text-decoration: none;
+    font-size: 20px;
+    padding-right: 100px;
+}
+
+.dalat{
+    display: flex;
+    padding-left: 150px;
+    padding-top: 10px;
+}
+.anhmau img{
+    width: 686px;
+}
+.dalat .text{
+    padding-top: 150px;
+    padding-right: 10px;
+}
+.nhatrang{
+    display: flex;
+    padding-left: 150px;
+    padding-top: 10px;
+}
+.anhmau img{
+    width: 686px;
+}
+.nhatrang .text{
+    padding-left: 20px;
+    padding-top: 120px;
+}
+
+h2{
+    padding-left: 500px;
+    padding-top: 20px;
+    color: white;
+}
+
+.contact{
+    padding-left: 150px;
+    background-color: #415388;
+}
+.contact .CONTACT{
+    padding-top: 10px;
+}
+.Contact .thongtin{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.icon{
+    padding-right: 10px;
+    color: white;
+}
+.thongtin{
+    padding-bottom: 10px;
+    color: white;
+}
+.Contact li{
+    list-style: none;
+    color: white;
 }

@@ -1,0 +1,187 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #222222;
+    /*font-size: 14px;*/
+    line-height: 1.5;
+    font-weight: 400;
+    background-color: #fafafa;
+}
+
+.section{
+    float:left;
+    width: 100%;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    padding-left: 150px;
+}
+
+.header{
+    background-color: #fbf4ea;
+}
+
+.logo{
+    width: 250px;
+}
+
+.find{
+    padding-left: 300px;
+    padding-top: 25px;
+    padding-right: 240px;
+}
+
+input[type=text] {
+    float: left;
+    width: 300px;
+    font-size: 15px;
+    height: 40px;
+}
+
+.Login{
+    padding-top: 35px;
+}
+.Login ul{
+    display: flex;
+}
+.Login li{
+    list-style: none;
+    padding-left: 40px;
+}
+.Login a{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav{
+    background-color: #ed5b30;
+}
+.menu{
+    list-style: none;
+    display: flex;
+}
+.menu a{
+    text-decoration: none;
+    font-size: 20px;
+    padding-right: 20px;
+    color: white;
+}
+h1{
+    background-image:url("../imgs/9.png");
+    padding: 5px 40px 5px 50px;
+}
+
+.main{
+    background-color: #f4f4f4;
+    padding-top: 5px;
+}
+.menu1{
+    list-style: none;
+    display: flex;
+}
+.menu1 a{
+    text-decoration: none;
+    font-size: 20px;
+    padding-right: 100px;
+}
+.hanggio{
+    background-color: white;
+    width: 1000px;
+    margin-left: 150px;
+}
+.khonggio {
+    display: inline-flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-bottom: 1px solid #e2e2e2;
+}
+.cloud{
+    display: flex;
+}
+.doam{
+    display: flex;
+}
+.gio{
+    display: flex;
+}
+.hour{
+    padding-right: 50px;
+    font-size: 30px;
+}
+.temp{
+    padding-right: 60px;
+    font-size: 30px;
+}
+.cloud i{
+    padding-right: 10px;
+    font-size: 30px;
+}
+.cloud p{
+    padding-right: 120px;
+    font-size: 30px;
+}
+.doam i{
+    padding-right: 10px;
+    font-size: 30px;
+}
+.doam p{
+    padding-right: 110px;
+    font-size: 30px;
+}
+.gio i{
+    padding-right: 10px;
+    font-size: 30px;
+}
+.gio p{
+    font-size: 30px;
+}
+.motgio{
+    display: inline-flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-bottom: 1px solid #e2e2e2;
+}
+.haigio{
+    display: inline-flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-bottom: 1px solid #e2e2e2;
+}
+.bagio{
+    display: inline-flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-bottom: 1px solid #e2e2e2;
+}
+.bongio{
+    display: inline-flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-bottom: 1px solid #e2e2e2;
+}
+.namgio{
+    display: inline-flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-bottom: 1px solid #e2e2e2;
+}
+
