@@ -59,7 +59,9 @@ input[type=text] {
     text-decoration: none;
     font-size: 20px;
 }
-
+.Login a:hover{
+    color: black;
+}
 .nav{
     background-color: #ed5b30;
 }
@@ -72,6 +74,9 @@ input[type=text] {
     font-size: 20px;
     padding-right: 20px;
     color: white;
+}
+.menu a:hover{
+    color: black;
 }
 h1{
     background-image:url("../imgs/9.png");
@@ -91,7 +96,9 @@ h1{
     font-size: 20px;
     padding-right: 100px;
 }
-
+.menu1 a:hover{
+    color: black;
+}
 .dalat{
     display: flex;
     padding-left: 150px;
@@ -147,12 +154,5 @@ h2{
     list-style: none;
     color: white;
 }
-.menu a:hover{
-    color: black;
-}
-.Login a:hover{
-    color: black;
-}
-.menu1 a:hover{
-    color: black;
-}
+
+

@@ -59,7 +59,9 @@ input[type=text] {
     text-decoration: none;
     font-size: 20px;
 }
-
+.Login a:hover{
+    color: black;
+}
 .nav{
     background-color: #ed5b30;
 }
@@ -72,6 +74,9 @@ input[type=text] {
     font-size: 20px;
     padding-right: 20px;
     color: white;
+}
+.menu a:hover{
+    color: black;
 }
 h1{
     background-image:url("../imgs/9.png");
@@ -90,6 +95,9 @@ h1{
     text-decoration: none;
     font-size: 20px;
     padding-right: 100px;
+}
+.menu1 a:hover{
+    color: black;
 }
 .hanggio{
     background-color: white;
@@ -184,13 +192,7 @@ h1{
     padding-right: 40px;
     border-bottom: 1px solid #e2e2e2;
 }
-.menu a:hover{
-    color: black;
-}
-.Login a:hover{
-    color: black;
-}
-.menu1 a:hover{
-    color: black;
-}
+
+
+
 
